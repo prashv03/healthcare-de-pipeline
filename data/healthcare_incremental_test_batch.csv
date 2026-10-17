@@ -1,0 +1,101 @@
+admission_id,age,gender,blood_type,medical_condition,admission_date,hospital,insurance_provider,billing_amount,admission_type,discharge_date,medication,test_results,patient_id,source_change_type
+ADM98CCDC05077D,59,Male,AB+,Cancer,2022-09-05,"Gallegos and Adams Wise,",UnitedHealthcare,32649.12,Elective,2022-09-18,Aspirin,Abnormal,PAT42444,UPDATE
+ADM30481777B470,18,Female,A-,Asthma,2020-01-24,Garcia PLC,Cigna,9600.99,Urgent,2020-02-16,Lipitor,Normal,PAT25849,UPDATE
+ADM999EF91BD545,23,Female,A+,Arthritis,2022-11-29,"Holland, Daniels Brennan and",Cigna,22349.56,Elective,2022-12-17,Ibuprofen,Abnormal,PAT01057,UPDATE
+ADMC177800AE5AB,71,Male,B+,Cancer,2023-11-20,Snyder PLC,Cigna,50467.89,Emergency,2023-11-22,Penicillin,Inconclusive,PAT34905,UPDATE
+ADM766F5F80B055,83,Male,B-,Cancer,2022-07-03,"Dixon, Larson and Evans",UnitedHealthcare,24536.68,Emergency,2022-07-21,Penicillin,Abnormal,PAT24513,UPDATE
+ADMAE2B31B566EF,57,Male,B+,Asthma,2021-02-23,Gonzalez PLC,UnitedHealthcare,11146.56,Emergency,2021-03-23,Penicillin,Abnormal,PAT03705,UPDATE
+ADM2F5F35CBA8E2,46,Female,A-,Hypertension,2022-03-13,King-Martinez,Medicare,3528.76,Elective,2022-03-22,Penicillin,Normal,PAT26856,UPDATE
+ADM9467DE95BAE2,76,Male,B+,Diabetes,2022-08-12,Inc Edwards,Cigna,33587.12,Elective,2022-08-29,Paracetamol,Normal,PAT18782,UPDATE
+ADMB2FE0B4C3A40,70,Female,O+,Arthritis,2022-10-19,"Vargas and Wise, James",UnitedHealthcare,36268.99,Emergency,2022-10-22,Ibuprofen,Abnormal,PAT49148,UPDATE
+ADM8E593BB876F9,22,Male,AB+,Asthma,2022-02-04,Klein Group,Aetna,48843.9,Urgent,2022-02-18,Ibuprofen,Normal,PAT49464,UPDATE
+ADM699EFCA43C3A,28,Female,A+,Hypertension,2023-09-22,Carter Group,UnitedHealthcare,5214.83,Emergency,2023-10-08,Aspirin,Inconclusive,PAT22211,UPDATE
+ADM46603DC5BADC,69,Female,O-,Asthma,2022-10-03,Watts-Andrews,Medicare,35895.55,Emergency,2022-10-07,Paracetamol,Inconclusive,PAT17784,UPDATE
+ADM8B391A5FDF77,77,Female,A+,Cancer,2022-03-28,Sons Gonzalez and,Cigna,23379.36,Emergency,2022-04-19,Aspirin,Normal,PAT05907,UPDATE
+ADM9593D6753818,85,Male,A-,Asthma,2022-06-29,"Hernandez Cox Wallace, and",Aetna,31996.07,Elective,2022-07-14,Paracetamol,Abnormal,PAT17034,UPDATE
+ADM3695AE0DD733,52,Female,AB-,Obesity,2023-08-20,Inc Young,Blue Cross,2873.02,Emergency,2023-09-04,Aspirin,Inconclusive,PAT23873,UPDATE
+ADMC6B24ABE61BD,51,Male,O-,Asthma,2019-12-08,Inc Walker,UnitedHealthcare,29916.5,Emergency,2019-12-21,Penicillin,Normal,PAT15490,UPDATE
+ADM6425C5966A23,73,Male,B+,Hypertension,2019-12-19,"Allen, and Barnes Smith",Cigna,43219.17,Emergency,2019-12-26,Aspirin,Abnormal,PAT30785,UPDATE
+ADMFD33906A8508,73,Male,AB-,Asthma,2022-12-31,Hamilton PLC,UnitedHealthcare,46546.55,Urgent,2023-01-20,Ibuprofen,Abnormal,PAT34317,UPDATE
+ADM375F17DBB26E,59,Female,B+,Arthritis,2021-08-21,Barr-Richardson,Blue Cross,17580.39,Urgent,2021-08-23,Penicillin,Inconclusive,PAT32628,UPDATE
+ADM2C778AF8D147,60,Female,B+,Diabetes,2022-01-15,LLC Reed,Medicare,36556.89,Elective,2022-01-20,Lipitor,Inconclusive,PAT42935,UPDATE
+ADMB4BBB922F339,40,Male,AB-,Diabetes,2021-08-05,Franklin-Garcia,Medicare,44282.89,Urgent,2021-08-23,Penicillin,Normal,PAT26487,UPDATE
+ADM3D626B222312,53,Male,B-,Asthma,2023-06-15,"Sandoval, Andrade Hunt and",Blue Cross,34569.31,Urgent,2023-06-25,Paracetamol,Inconclusive,PAT07471,UPDATE
+ADM732C20899DBB,23,Male,O+,Hypertension,2024-02-06,Rodriguez-Harris,Medicare,14149.7,Emergency,2024-03-06,Penicillin,Abnormal,PAT22536,UPDATE
+ADM86B6AA7CEB91,58,Female,O-,Obesity,2021-06-19,Williams Ltd,UnitedHealthcare,45072.34,Elective,2021-07-03,Penicillin,Normal,PAT28093,UPDATE
+ADM6395BD7514D0,23,Male,B+,Arthritis,2024-01-23,"Moreno Clark and Torres,",Blue Cross,13726.48,Emergency,2024-02-15,Ibuprofen,Abnormal,PAT45181,UPDATE
+ADM269578740B3F,46,Female,A+,Hypertension,2022-02-19,Brown PLC,Blue Cross,3680.5,Elective,2022-03-21,Paracetamol,Normal,PAT32110,UPDATE
+ADM931C45EE1390,73,Female,AB-,Arthritis,2023-01-09,"and Salazar Smith, Walker",Cigna,47769.39,Emergency,2023-02-02,Paracetamol,Inconclusive,PAT20305,UPDATE
+ADM2AD718002971,58,Female,A+,Diabetes,2019-10-20,Simmons Group,Medicare,48875.19,Urgent,2019-10-27,Paracetamol,Normal,PAT08176,UPDATE
+ADMDDE0259324D0,59,Male,B+,Diabetes,2021-10-25,Ramirez-Marks,Medicare,8723.07,Emergency,2021-11-22,Aspirin,Abnormal,PAT33350,UPDATE
+ADM6D02A67ABD42,20,Male,O-,Arthritis,2021-06-28,"Obrien, Chase Collins and",Blue Cross,28800.63,Elective,2021-07-20,Ibuprofen,Inconclusive,PAT15212,UPDATE
+ADMF8AD5ABB7EE0,31,Male,AB-,Asthma,2019-12-12,Howell Sons and,Aetna,27818.32,Emergency,2020-01-02,Ibuprofen,Inconclusive,PAT38826,UPDATE
+ADM136DC3EC7661,80,Female,AB-,Diabetes,2023-07-01,Harris-Owens,Blue Cross,31536.31,Emergency,2023-07-09,Penicillin,Normal,PAT18562,UPDATE
+ADM819FD9950714,80,Male,A+,Diabetes,2024-02-28,"Williams Smith, and Mccoy",UnitedHealthcare,17030.25,Urgent,2024-03-01,Penicillin,Normal,PAT37510,UPDATE
+ADM4EB7871B4FCC,67,Female,B-,Arthritis,2021-02-24,Group Banks,UnitedHealthcare,5852.97,Elective,2021-02-25,Ibuprofen,Abnormal,PAT31300,UPDATE
+ADM74985FCFACFA,22,Female,B-,Obesity,2023-12-04,"and Lewis, Edwards Harvey",Aetna,33904.01,Urgent,2023-12-26,Lipitor,Abnormal,PAT04713,UPDATE
+ADM687246C039DE,66,Female,O-,Hypertension,2021-05-06,Ltd Byrd,Medicare,35665.62,Emergency,2021-05-26,Lipitor,Inconclusive,PAT06925,UPDATE
+ADM68F70F7AF6A9,31,Male,O+,Obesity,2022-12-21,"Harvey Diaz, Delacruz and",Medicare,21633.73,Urgent,2023-01-02,Penicillin,Abnormal,PAT09039,UPDATE
+ADMF92DE45EBE88,70,Male,B+,Cancer,2021-07-24,and Meyer Sons,Cigna,11959.88,Urgent,2021-08-01,Penicillin,Normal,PAT30634,UPDATE
+ADMFEF4F82193CF,59,Female,AB+,Obesity,2023-05-31,LLC Wise,Medicare,5056.91,Urgent,2023-06-11,Lipitor,Normal,PAT07442,UPDATE
+ADM76C277ED9AFB,33,Male,B+,Cancer,2019-09-19,Inc Perkins,Cigna,45519.68,Urgent,2019-10-02,Penicillin,Abnormal,PAT45373,UPDATE
+ADMAC54966F160D,19,Male,A-,Diabetes,2023-09-27,Harris Inc,UnitedHealthcare,13490.7,Urgent,2023-10-16,Paracetamol,Normal,PAT43060,UPDATE
+ADM4C82FD6CA3ED,30,Male,B-,Obesity,2022-07-07,Gibson-Meyer,Medicare,47867.82,Emergency,2022-08-06,Paracetamol,Abnormal,PAT49795,UPDATE
+ADM546EB594D2D4,66,Male,AB-,Hypertension,2020-07-11,"White, Smith and Ross",Aetna,9723.89,Urgent,2020-07-30,Lipitor,Inconclusive,PAT24529,UPDATE
+ADM2EB511F3D661,21,Male,AB-,Obesity,2022-10-09,Inc Roberts,Cigna,15710.79,Urgent,2022-10-27,Aspirin,Normal,PAT32701,UPDATE
+ADM3A69B2A1D16B,32,Male,A+,Asthma,2022-10-31,"Herrera and Carter Briggs,",Aetna,44745.33,Urgent,2022-11-22,Aspirin,Inconclusive,PAT14223,UPDATE
+ADMC03F850AC2B5,62,Male,O+,Arthritis,2019-08-16,Pena PLC,Cigna,41071.82,Elective,2019-08-24,Lipitor,Abnormal,PAT38572,UPDATE
+ADM2DAB8EFBAE12,25,Female,B-,Obesity,2023-11-23,Group Valdez,Cigna,11670.8,Elective,2023-12-02,Aspirin,Inconclusive,PAT03864,UPDATE
+ADMFF392C606F81,79,Female,AB+,Cancer,2022-05-04,Holmes-Gonzalez,Cigna,38363.26,Elective,2022-06-02,Aspirin,Inconclusive,PAT49208,UPDATE
+ADM7DF6AD545255,80,Male,A+,Cancer,2019-07-18,Inc Chambers,Cigna,33584.62,Elective,2019-08-01,Penicillin,Normal,PAT06733,UPDATE
+ADMAF4E5A6D17CE,58,Male,O-,Diabetes,2023-01-23,Davis-Levy,UnitedHealthcare,31459.19,Urgent,2023-02-07,Aspirin,Inconclusive,PAT12236,UPDATE
+ADMNEW00001,78,Female,A+,Cancer,2020-11-24,Cook-Adams,Aetna,47641.32,Elective,2020-11-29,Ibuprofen,Normal,PATSIM00001,INSERT
+ADMNEW00002,62,Male,B-,Arthritis,2019-12-27,Green Ltd,UnitedHealthcare,35387.63,Elective,2020-01-02,Penicillin,Normal,PATSIM00002,INSERT
+ADMNEW00003,33,Male,AB+,Cancer,2021-01-25,Roberts-Rogers,UnitedHealthcare,13828.3,Elective,2021-02-05,Penicillin,Abnormal,PATSIM00003,INSERT
+ADMNEW00004,19,Male,O+,Asthma,2021-07-24,Lane-Daniels,Medicare,32488.79,Emergency,2021-08-01,Lipitor,Normal,PATSIM00004,INSERT
+ADMNEW00005,51,Female,AB+,Arthritis,2020-09-27,and Mendoza Sons,UnitedHealthcare,9144.11,Emergency,2020-09-27,Ibuprofen,Abnormal,PATSIM00005,INSERT
+ADMNEW00006,36,Female,AB+,Arthritis,2024-05-05,Hamilton-Bradley,Medicare,21544.37,Elective,2024-05-18,Ibuprofen,Normal,PATSIM00006,INSERT
+ADMNEW00007,22,Female,A-,Hypertension,2023-11-28,"Oconnor Swanson and Scott,",UnitedHealthcare,14664.16,Urgent,2023-11-27,Lipitor,Abnormal,PATSIM00007,INSERT
+ADMNEW00008,72,Female,A-,Arthritis,2022-04-22,and Sons Christian,Medicare,33453.54,Emergency,2022-04-22,Penicillin,Abnormal,PATSIM00008,INSERT
+ADMNEW00009,66,Male,A+,Diabetes,2022-01-31,and Sons Walker,Aetna,35236.62,Urgent,2022-01-30,Aspirin,Abnormal,PATSIM00009,INSERT
+ADMNEW00010,57,Male,B-,Obesity,2023-12-09,Murillo Group,Cigna,16035.45,Elective,2023-12-22,Lipitor,Normal,PATSIM00010,INSERT
+ADMNEW00011,56,Male,A+,Diabetes,2022-01-24,Martin Ltd,Aetna,14605.96,Elective,2022-01-28,Penicillin,Inconclusive,PATSIM00011,INSERT
+ADMNEW00012,71,Male,B+,Arthritis,2020-01-12,"Evans Young Hall, and",Cigna,33575.42,Urgent,2020-01-22,Lipitor,Inconclusive,PATSIM00012,INSERT
+ADMNEW00013,79,Male,O-,Diabetes,2022-09-05,"and Harris Ortega Macias,",Blue Cross,29662.44,Emergency,2022-09-18,Lipitor,Normal,PATSIM00013,INSERT
+ADMNEW00014,52,Female,A-,Cancer,2022-12-21,Palmer-Robbins,Medicare,19863.23,Urgent,2022-12-29,Ibuprofen,Abnormal,PATSIM00014,INSERT
+ADMNEW00015,39,Female,AB-,Arthritis,2022-02-14,"Horn and Wilson, Patton",Medicare,48413.29,Elective,2022-02-20,Lipitor,Normal,PATSIM00015,INSERT
+ADMNEW00016,65,Female,B-,Diabetes,2023-04-27,LLC Gonzales,UnitedHealthcare,34591.07,Elective,2023-04-28,Ibuprofen,Normal,PATSIM00016,INSERT
+ADMNEW00017,78,Male,O-,Asthma,2023-10-26,"Weaver, Fry and Fleming",Aetna,33992.66,Emergency,2023-10-15,Paracetamol,Normal,PATSIM00017,INSERT
+ADMNEW00018,34,Female,B-,Hypertension,2023-05-12,PLC Odonnell,Medicare,15306.79,Urgent,2023-05-27,Lipitor,Normal,PATSIM00018,INSERT
+ADMNEW00019,73,Female,B-,Diabetes,2021-10-15,Delgado Inc,Cigna,26068.69,Emergency,2021-10-28,Paracetamol,Normal,PATSIM00019,INSERT
+ADMNEW00020,21,Female,B+,Diabetes,2023-12-28,Thomas Ltd,UnitedHealthcare,22757.59,Emergency,2024-01-11,Ibuprofen,Abnormal,PATSIM00020,INSERT
+ADMNEW00021,51,Female,A+,Arthritis,2020-11-11,Group Hughes,UnitedHealthcare,45741.94,Elective,2020-11-15,Paracetamol,Inconclusive,PATSIM00021,INSERT
+ADMNEW00022,49,Male,B+,Arthritis,2020-12-16,"Neal Pennington Ellison, and",Cigna,39915.1,Emergency,2020-12-18,Lipitor,Inconclusive,PATSIM00022,INSERT
+ADMNEW00023,39,Female,AB-,Asthma,2021-08-18,PLC Nelson,UnitedHealthcare,48187.34,Emergency,2021-08-13,Ibuprofen,Abnormal,PATSIM00023,INSERT
+ADMNEW00024,79,Female,AB+,Hypertension,2022-05-05,Villa-Velez,Medicare,24409.56,Elective,2022-05-24,Paracetamol,Normal,PATSIM00024,INSERT
+ADMNEW00025,78,Male,AB+,Hypertension,2021-08-05,"Stevens, and Keller Martin",Medicare,44063.01,Elective,2021-08-07,Aspirin,Normal,PATSIM00025,INSERT
+ADMNEW00026,28,Female,A-,Arthritis,2020-06-08,"Holland Brown, and York",Cigna,43119.11,Emergency,2020-06-05,Paracetamol,Normal,PATSIM00026,INSERT
+ADMNEW00027,25,Female,O+,Asthma,2019-10-20,Brooks-Roach,Cigna,22617.35,Urgent,2019-11-08,Lipitor,Inconclusive,PATSIM00027,INSERT
+ADMNEW00028,64,Female,B-,Cancer,2020-08-17,"Gonzalez Ross Gonzalez, and",Blue Cross,46717.2,Urgent,2020-08-27,Penicillin,Normal,PATSIM00028,INSERT
+ADMNEW00029,39,Female,AB-,Diabetes,2020-11-03,Garcia PLC,Blue Cross,39332.0,Emergency,2020-11-02,Aspirin,Abnormal,PATSIM00029,INSERT
+ADMNEW00030,73,Female,O-,Hypertension,2021-12-25,"Tate Flynn, and Wiggins",Blue Cross,6360.04,Elective,2021-12-31,Ibuprofen,Normal,PATSIM00030,INSERT
+ADMNEW00031,68,Male,B+,Hypertension,2022-04-20,Mckee-Stevens,Medicare,46763.81,Urgent,2022-04-26,Lipitor,Normal,PATSIM00031,INSERT
+ADMNEW00032,27,Male,AB-,Asthma,2023-09-11,Group Marshall,Aetna,25627.12,Elective,2023-09-29,Penicillin,Abnormal,PATSIM00032,INSERT
+ADMNEW00033,78,Female,O-,Hypertension,2023-08-25,Miller-Robbins,UnitedHealthcare,25454.45,Elective,2023-09-06,Penicillin,Inconclusive,PATSIM00033,INSERT
+ADMNEW00034,51,Male,AB+,Cancer,2020-07-28,LLC Horn,Blue Cross,9490.49,Urgent,2020-08-07,Aspirin,Normal,PATSIM00034,INSERT
+ADMNEW00035,37,Female,A-,Diabetes,2021-04-15,"Johnson and Shannon Hamilton,",Aetna,45792.95,Urgent,2021-04-27,Aspirin,Inconclusive,PATSIM00035,INSERT
+ADMNEW00036,56,Female,AB-,Arthritis,2022-11-29,Harris Group,Medicare,46608.49,Urgent,2022-12-06,Penicillin,Abnormal,PATSIM00036,INSERT
+ADMNEW00037,79,Male,AB-,Arthritis,2022-06-17,"Hernandez Johnson, Edwards and",UnitedHealthcare,8019.29,Elective,2022-06-28,Ibuprofen,Abnormal,PATSIM00037,INSERT
+ADMNEW00038,71,Female,O-,Cancer,2021-02-08,Luna and Sons,Aetna,18496.09,Urgent,2021-02-25,Lipitor,Abnormal,PATSIM00038,INSERT
+ADMNEW00039,33,Female,AB-,Arthritis,2020-09-22,Conner Inc,Cigna,30502.27,Elective,2020-09-12,Ibuprofen,Inconclusive,PATSIM00039,INSERT
+ADMNEW00040,73,Female,AB+,Diabetes,2021-01-03,Friedman-Martin,Medicare,48678.62,Urgent,2020-12-25,Penicillin,Inconclusive,PATSIM00040,INSERT
+ADMNEW00041,68,Male,AB-,Cancer,2021-01-13,Osborn-Carpenter,Aetna,1205.98,Emergency,2021-01-30,Ibuprofen,Abnormal,PATSIM00041,INSERT
+ADMNEW00042,42,Female,O+,Asthma,2022-12-02,Dorsey-Mcguire,Cigna,7667.19,Emergency,2022-11-21,Aspirin,Normal,PATSIM00042,INSERT
+ADMNEW00043,66,Female,AB+,Diabetes,2024-02-04,"and Myers Hernandez, Moore",UnitedHealthcare,43682.17,Elective,2024-02-03,Penicillin,Normal,PATSIM00043,INSERT
+ADMNEW00044,21,Female,AB+,Hypertension,2020-06-30,Ware-Bennett,Medicare,20210.44,Elective,2020-07-03,Aspirin,Abnormal,PATSIM00044,INSERT
+ADMNEW00045,36,Female,AB+,Diabetes,2022-08-28,Williams-Hardin,Cigna,23682.83,Emergency,2022-09-09,Penicillin,Normal,PATSIM00045,INSERT
+ADMNEW00046,66,Female,B+,Asthma,2019-11-21,Whitaker Inc,Cigna,18504.98,Urgent,2019-11-22,Lipitor,Inconclusive,PATSIM00046,INSERT
+ADMNEW00047,65,Male,A-,Diabetes,2022-08-22,Wright-Kelly,Blue Cross,38315.55,Elective,2022-08-22,Lipitor,Inconclusive,PATSIM00047,INSERT
+ADMNEW00048,39,Female,AB+,Diabetes,2023-03-08,Harding-Adams,Medicare,24977.27,Urgent,2023-03-28,Lipitor,Inconclusive,PATSIM00048,INSERT
+ADMNEW00049,65,Male,AB+,Hypertension,2023-03-28,Juarez and Sons,Cigna,21767.23,Elective,2023-04-16,Lipitor,Normal,PATSIM00049,INSERT
+ADMNEW00050,40,Male,O+,Diabetes,2020-07-14,"and Green Williams Simpson,",Cigna,17214.05,Urgent,2020-07-27,Lipitor,Normal,PATSIM00050,INSERT
